@@ -1,6 +1,10 @@
 # graduation_project
 graduation project,PID controller based on BPNN
+
+
 contains matlab files and python files
+
+
 matlab files are uesed to solve the motion of the ship under different conditions(both the sea and PD gains)
 python files mainly have two classes,one for regular waves, one for random waves
 there are also some other small files which used to plot、calculate wave force&torque
